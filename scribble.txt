@@ -3,4 +3,7 @@ Personal detail
 My name is Aniket Patil
 Male 
 
+Education 
+BE in computer
+Master in IT
 
