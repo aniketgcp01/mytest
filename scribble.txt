@@ -1,7 +1,8 @@
 abcd
 Personal detail
-My name is Aniket Patil
+My name is Aniket
 Male 
+friends and family
 
 Education 
 BE in computer
